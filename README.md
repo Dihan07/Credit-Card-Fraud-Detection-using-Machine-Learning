@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection-using-Machine-Learning
-Exploring the Effectiveness of Data Balancing Techniques for Credit Card Fraud Detection using Machine Learning
+The project involves different data balancing techniques to explore how effective they are to the credit card fraud detection model
+
